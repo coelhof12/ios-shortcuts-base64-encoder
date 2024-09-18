@@ -30,7 +30,7 @@ This iOS shortcut helps you encode image files into base64 format, making it qui
 
 ![Shortcut workflow](assets/shortcut-workflow.png)
 
-## Contributing:
+## Contributing: 
 
 Feel free to contribute by submitting issues or pull requests to improve this shortcut.
 
