@@ -1,6 +1,6 @@
 # Base64 Encoder iOS Shortcut
 
-![Project Cover](./assets/Repo_Cover.jpg)
+![Project Cover](https://raw.githubusercontent.com/coelhof12/ios-shortcuts-base64-encoder/main/assets/Repo_Cover.jpg)
 
 ### Convert image files into Base64 format easily.
 
