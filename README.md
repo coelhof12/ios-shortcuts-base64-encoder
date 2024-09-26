@@ -23,7 +23,7 @@ Easily convert images to base64 format with this iOS shortcut, simplifying the p
 ## Installation
 
 1. Download the shortcut by [clicking here](<[iCloudLinkToShortcut](https://www.icloud.com/shortcuts/fb18fa048a5f43f9a04e4d6813b826fd)>).
-2. Open it in your iOS Shortcuts app.
+2. Open it in your iOS Shortcuts app or MacOs system.
 3. Allow necessary permissions for file access.
 
 ## How to Use
