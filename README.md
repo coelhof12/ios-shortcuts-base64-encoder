@@ -12,7 +12,9 @@ Easily convert images to base64 format with this iOS shortcut, simplifying the p
 
 ## Shortcut Demo
 
-![Base64 Shortcut Demo](assets/base64_shortcut_demo.gif)
+<p align="center"> 
+   <img width="460" height="300" src="https://raw.githubusercontent.com/coelhof12/ios-shortcuts-base64-encoder/refs/heads/main/assets/base64_shortcut_demo.gif"> 
+</p>
 
 ## Features
 
@@ -31,10 +33,6 @@ Easily convert images to base64 format with this iOS shortcut, simplifying the p
 1. Open the shortcut and select an image file.
 2. The shortcut will automatically detect the file type and encode it in base64.
 3. The encoded base64 data will be copied to your clipboard for use.
-
-## Screenshots
-
-<p align="center"> <img width="460" height="300" src="https://raw.githubusercontent.com/coelhof12/ios-shortcuts-base64-encoder/refs/heads/main/assets/base64_shortcut_demo.gif"> </p>
 
 ## Contributing
 
