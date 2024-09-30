@@ -6,7 +6,7 @@
 
 This iOS shortcut helps you encode image files into base64 format, making it quick and easy to copy the encoded data to your clipboard for use in web development, emails, or other projects.
 
-## Additional Information
+## The Concept 
 
 Easily convert images to base64 format with this iOS shortcut, simplifying the process of embedding images in web projects, emails, or other applications by copying the encoded data directly to your clipboard.
 
